@@ -13,7 +13,7 @@ var enemy;
 
 function preload() {
 //preload the images here
-backgroundImg = loadImage("images/GamingBackground.png");
+backgroundImg = loadImage("GamingBackground.png");
 }
 
 function setup() {
